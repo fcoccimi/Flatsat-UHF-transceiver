@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Tranceiver.GBR   2021-02-02  4:35:45 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                TOP                                     
+.GP1                Ground                                  
+.GP2                Power                                   
+.GBL                BOT                                     
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Top 3D Body                             
+.GM2                Bottom 3D Body                          
+.GM6                Drawing                                 
+.GM7                Top Courtyard                           
+.GM8                Bottom Courtyard                        
+.GM12               Dimensions                              
+.GM13               Mechanical 13                           
+.GM14               Outline                                 
+.GM15               Mechanical 15                           
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+------------------------------------------------------------------------------------------
