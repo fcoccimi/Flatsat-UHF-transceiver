@@ -1,0 +1,76 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (win64) Build 3064766 Wed Nov 18 09:12:45 MST 2020
+| Date         : Tue Apr 13 20:03:42 2021
+| Host         : LAPTOP-COCCF running 64-bit major release  (build 9200)
+| Command      : report_drc -file BPSK_LMS_drc_routed.rpt -pb BPSK_LMS_drc_routed.pb -rpx BPSK_LMS_drc_routed.rpx
+| Design       : BPSK_LMS
+| Device       : xc7a35ticsg324-1L
+| Speed File   : -1L
+| Design State : Fully Routed
+------------------------------------------------------------------------------------------------------------------
+
+Report DRC
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+           Ruledeck: default
+             Max violations: <unlimited>
+             Violations found: 8
++----------+----------+-------------------+------------+
+| Rule     | Severity | Description       | Violations |
++----------+----------+-------------------+------------+
+| PDRC-153 | Warning  | Gated clock check | 8          |
++----------+----------+-------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+PDRC-153#1 Warning
+Gated clock check  
+Net UART_RX/outd_reg[0]_i_2_n_0 is a gated clock net sourced by a combinational pin UART_RX/outd_reg[0]_i_2/O, cell UART_RX/outd_reg[0]_i_2. This is not good design practice and will likely impact performance. For SLICE registers, for example, use the CE pin to control the loading of data.
+Related violations: <none>
+
+PDRC-153#2 Warning
+Gated clock check  
+Net UART_RX/outd_reg[1]_i_2_n_0 is a gated clock net sourced by a combinational pin UART_RX/outd_reg[1]_i_2/O, cell UART_RX/outd_reg[1]_i_2. This is not good design practice and will likely impact performance. For SLICE registers, for example, use the CE pin to control the loading of data.
+Related violations: <none>
+
+PDRC-153#3 Warning
+Gated clock check  
+Net UART_RX/outd_reg[2]_i_2_n_0 is a gated clock net sourced by a combinational pin UART_RX/outd_reg[2]_i_2/O, cell UART_RX/outd_reg[2]_i_2. This is not good design practice and will likely impact performance. For SLICE registers, for example, use the CE pin to control the loading of data.
+Related violations: <none>
+
+PDRC-153#4 Warning
+Gated clock check  
+Net UART_RX/outd_reg[3]_i_2_n_0 is a gated clock net sourced by a combinational pin UART_RX/outd_reg[3]_i_2/O, cell UART_RX/outd_reg[3]_i_2. This is not good design practice and will likely impact performance. For SLICE registers, for example, use the CE pin to control the loading of data.
+Related violations: <none>
+
+PDRC-153#5 Warning
+Gated clock check  
+Net UART_RX/outd_reg[4]_i_2_n_0 is a gated clock net sourced by a combinational pin UART_RX/outd_reg[4]_i_2/O, cell UART_RX/outd_reg[4]_i_2. This is not good design practice and will likely impact performance. For SLICE registers, for example, use the CE pin to control the loading of data.
+Related violations: <none>
+
+PDRC-153#6 Warning
+Gated clock check  
+Net UART_RX/outd_reg[5]_i_2_n_0 is a gated clock net sourced by a combinational pin UART_RX/outd_reg[5]_i_2/O, cell UART_RX/outd_reg[5]_i_2. This is not good design practice and will likely impact performance. For SLICE registers, for example, use the CE pin to control the loading of data.
+Related violations: <none>
+
+PDRC-153#7 Warning
+Gated clock check  
+Net UART_RX/outd_reg[6]_i_2_n_0 is a gated clock net sourced by a combinational pin UART_RX/outd_reg[6]_i_2/O, cell UART_RX/outd_reg[6]_i_2. This is not good design practice and will likely impact performance. For SLICE registers, for example, use the CE pin to control the loading of data.
+Related violations: <none>
+
+PDRC-153#8 Warning
+Gated clock check  
+Net UART_RX/outd_reg[7]_i_1_n_0 is a gated clock net sourced by a combinational pin UART_RX/outd_reg[7]_i_1/O, cell UART_RX/outd_reg[7]_i_1. This is not good design practice and will likely impact performance. For SLICE registers, for example, use the CE pin to control the loading of data.
+Related violations: <none>
+
+

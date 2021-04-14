@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/franc/Documents/GitHub/ELEC-490/BPSK_Modulation/BPSK_Modulation.gen/sources_1/ip/Clk_gen_pll/Clk_gen_pll.v,1616989432,verilog,,C:/Users/franc/Documents/GitHub/ELEC-490/BPSK_Modulation/BPSK_Modulation.srcs/sources_1/new/BPSK_LMS.v,,Clk_gen_pll,,,../../../../BPSK_Modulation.gen/sources_1/ip/Clk_gen_pll,,,,,
+C:/Users/franc/Documents/GitHub/ELEC-490/BPSK_Modulation/BPSK_Modulation.gen/sources_1/ip/Clk_gen_pll/Clk_gen_pll_clk_wiz.v,1616989431,verilog,,C:/Users/franc/Documents/GitHub/ELEC-490/BPSK_Modulation/BPSK_Modulation.gen/sources_1/ip/Clk_gen_pll/Clk_gen_pll.v,,Clk_gen_pll_clk_wiz,,,../../../../BPSK_Modulation.gen/sources_1/ip/Clk_gen_pll,,,,,
+C:/Users/franc/Documents/GitHub/ELEC-490/BPSK_Modulation/BPSK_Modulation.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/franc/Documents/GitHub/ELEC-490/BPSK_Modulation/BPSK_Modulation.srcs/sim_1/new/BPSK_test.v,1617593916,verilog,,,,BPSK_test,,,../../../../BPSK_Modulation.gen/sources_1/ip/Clk_gen_pll,,,,,
+C:/Users/franc/Documents/GitHub/ELEC-490/BPSK_Modulation/BPSK_Modulation.srcs/sources_1/new/BPSK_LMS.v,1617644071,verilog,,C:/Users/franc/Documents/GitHub/ELEC-490/BPSK_Modulation/BPSK_Modulation.srcs/sim_1/new/BPSK_test.v,,BPSK_LMS,,,../../../../BPSK_Modulation.gen/sources_1/ip/Clk_gen_pll,,,,,
+C:/Users/franc/Documents/GitHub/ELEC-490/BPSK_Modulation/BPSK_Modulation.srcs/sources_1/new/UART_RX.v,1617593429,verilog,,C:/Users/franc/Documents/GitHub/ELEC-490/BPSK_Modulation/BPSK_Modulation.srcs/sim_1/new/BPSK_test.v,,UART_RX,,,../../../../BPSK_Modulation.gen/sources_1/ip/Clk_gen_pll,,,,,

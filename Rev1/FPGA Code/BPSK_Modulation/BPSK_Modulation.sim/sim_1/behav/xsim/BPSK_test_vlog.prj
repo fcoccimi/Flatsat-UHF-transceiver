@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../BPSK_Modulation.gen/sources_1/ip/Clk_gen_pll" \
+"../../../../BPSK_Modulation.gen/sources_1/ip/Clk_gen_pll/Clk_gen_pll_clk_wiz.v" \
+"../../../../BPSK_Modulation.gen/sources_1/ip/Clk_gen_pll/Clk_gen_pll.v" \
+"../../../../BPSK_Modulation.srcs/sources_1/new/BPSK_LMS.v" \
+"../../../../BPSK_Modulation.srcs/sim_1/new/BPSK_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
